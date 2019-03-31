@@ -10,7 +10,8 @@ This dataset have 584 images and two set of annotations as shown in the table.
 - Green --> company name
 - Blue --> Total amount
 - Red --> Date
-- Pink --> Compani name
+- Pink --> Company address
+
 ![](X51007339152.png)
 ![](X51005663278.png)
 ![](X51006557161.png)
